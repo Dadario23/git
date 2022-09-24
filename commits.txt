@@ -1,0 +1,98 @@
+commit ee5f3b0c1b7264e680dc866ce7ed7d368ab71d71
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:50:18 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 7ed5280447c91b85f6e883378de34d378e9ee421
+Merge: 798f676 be44114
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:47:36 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 798f676afeef77609c170ba0bb8abd717dd3d849
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:21:14 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit be44114608e919f6c121eb08075b0c35f2edd494
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:21:14 2022 -0300
+
+    Agregando estaciones del año
+
+commit 4f614285693fddd2079173cc4c8c32e7e5cd2932
+Merge: 627015b 0499bce
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:14:42 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 0499bce3a757dabb943945759c44dc8f45e4217f
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 01:04:32 2022 -0300
+
+    agregando index.js al index.html
+
+commit 627015bbdf0c6146edea139ba43cd95147b26eca
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Sat Sep 24 00:58:32 2022 -0300
+
+    Agregando style.css al index.html
+
+commit 8506641037ebafec5377a525cb8630595aeb63bd
+Merge: e18c125 90819d7
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 03:17:53 2022 -0300
+
+    Merge branch 'js' into main
+
+commit 90819d73aac039452fcc79fc7db821c2606234b8
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 03:12:54 2022 -0300
+
+    creando index.js
+
+commit e18c12568180af63e476b9e495f189e3af67c92f
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 03:08:12 2022 -0300
+
+    Creando style.css
+
+commit a8c1e15383fdeb6f4119260ccc500a50be3579b1
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 03:03:01 2022 -0300
+
+    creando index.html
+
+commit 6aa58ee385826b979ccb6611bb2511b6d34a31eb
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 02:05:54 2022 -0300
+
+    ignorando archivos exe
+
+commit 60cfa5c5da81d86c1fc35f0387c5be6ae847779c
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Fri Sep 23 01:00:11 2022 -0300
+
+    editamos contenido del readme
+
+commit 784c80171a50d15dd92761f535d8b4f872465dc5
+Author: Dadario23 <dandrada23@gmail.com>
+Date:   Tue Aug 9 02:52:09 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 3bd33c66b152c1dcbb76f2366aca891d0120c204
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Tue Aug 9 02:45:02 2022 -0300
+
+    Agregando mas contenido al README
+
+commit 8e76e8a3385f867faec9ec1234f28eb418c9886d
+Author: dadario23 <dandrada23@gmail.com>
+Date:   Tue Aug 9 02:34:44 2022 -0300
+
+    Agregando contenido inicial al readme
